@@ -3,4 +3,5 @@ join multiple pdf files into one file
 
 run:
 python merge.py
+result in: 
 script will join all pdf file to one file named "combined.pdf"
